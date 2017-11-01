@@ -1,9 +1,9 @@
-Node Ethpool
+Node Etcmine
 ===========
 
-NodeJS Client Library for the Ethpool (Ethpool.org) API
+NodeJS Client Library for the Etcmine (Etc-ethermine.org) API
 
-This is an asynchronous node js client for the Ethpool.org API. It exposes all the API methods found here: http://api.ethpool.org/docs through the ```api``` method:
+This is an asynchronous node js client for the Ethpool.org API. It exposes all the API methods found here: http://api.etc-ethermine.org/docs through the ```api``` method:
 
 Example Usage:
 
