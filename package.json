@@ -1,9 +1,9 @@
 {
-  "name": "ethpool-api",
+  "name": "etcmine-api",
   "version": "1.0.0",
-  "description": "ethpool.org API client library for NodeJS",
+  "description": "etcmine.org API client library for NodeJS",
   "keywords": [
-    "ethpool",
+    "etcmine",
     "api",
     "eth",
     "ethereum"
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhagell/npm-ethpool-api"
+    "url": "https://github.com/dhagell/npm-etcmine-api"
   },
-  "main": "ethpool.js",
+  "main": "etcmine.js",
   "engines": {
     "node": ">=0.10"
   },
   "bugs": {
-    "url": "https://github.com/dhagell/npm-ethpool-api/issues",
+    "url": "https://github.com/dhagell/npm-etcmine-api/issues",
     "email": "donhagell@gmail.com"
   },
   "readmeFilename": "README.md"
